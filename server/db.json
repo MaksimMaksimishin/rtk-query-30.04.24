@@ -1,0 +1,28 @@
+{
+  "goods": [
+    {
+      "name": "Gaming Mouse",
+      "id": 6
+    },
+    {
+      "name": "Microphone",
+      "id": 7
+    },
+    {
+      "name": "Phone",
+      "id": 8
+    },
+    {
+      "name": "TV",
+      "id": 9
+    },
+    {
+      "name": "Gaming Laptop ",
+      "id": 10
+    },
+    {
+      "name": "Keyboard",
+      "id": 11
+    }
+  ]
+}
