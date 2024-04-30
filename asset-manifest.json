@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtk-query-30.04.24/static/css/main.377a071e.css",
+    "main.js": "/rtk-query-30.04.24/static/js/main.bb2d6e48.js",
+    "index.html": "/rtk-query-30.04.24/index.html",
+    "main.377a071e.css.map": "/rtk-query-30.04.24/static/css/main.377a071e.css.map",
+    "main.bb2d6e48.js.map": "/rtk-query-30.04.24/static/js/main.bb2d6e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.377a071e.css",
+    "static/js/main.bb2d6e48.js"
+  ]
+}
